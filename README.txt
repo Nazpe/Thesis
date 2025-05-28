@@ -7,4 +7,4 @@ A small summary of what is done in each file:
 -> Cluster Analysis: the data is clustered and separated in different populations;
 -> logistic Regression Mortality in different populations: localized models are obtained and evaluated.
 
-Note: The Data is not present in this repo.
+Note: The Data is not present in this repo. The dataset used in this project contains protected hospital data and cannot be shared publicly due to privacy and compliance regulations.
