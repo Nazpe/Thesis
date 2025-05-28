@@ -7,3 +7,4 @@ A small summary of what is done in each file:
 -> Cluster Analysis: the data is clustered and separated in different populations;
 -> logistic Regression Mortality in different populations: localized models are obtained and evaluated.
 
+Note: The Data is not present in this repo.
